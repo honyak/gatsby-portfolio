@@ -53,9 +53,10 @@ const Projects = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--hero"
-                        href={url || '#!'}
+                        href="https://github.com/honyak?tab=repositories"
+                        // {url || '#!'}
                       >
-                        See Live
+                        Visit my Github page
                       </a>
 
                       {repo && (
